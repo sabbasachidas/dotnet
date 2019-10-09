@@ -16,7 +16,7 @@ namespace CoffeeShop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new OrderUIcs());
+            Application.Run(new ItemUI());
         }
     }
 }
